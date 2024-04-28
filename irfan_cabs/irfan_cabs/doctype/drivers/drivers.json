@@ -19,12 +19,16 @@
    "default": "1",
    "fieldname": "enabled",
    "fieldtype": "Check",
-   "label": "Enabled?"
+   "in_list_view": 1,
+   "label": "Enabled?",
+   "reqd": 1
   },
   {
    "fieldname": "first_name",
    "fieldtype": "Data",
-   "label": "First Name"
+   "in_list_view": 1,
+   "label": "First Name",
+   "reqd": 1
   },
   {
    "fieldname": "last_name",
@@ -49,7 +53,7 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2024-04-28 11:15:28.037816",
+ "modified": "2024-04-28 11:17:22.427694",
  "modified_by": "Administrator",
  "module": "Irfan Cabs",
  "name": "Drivers",
