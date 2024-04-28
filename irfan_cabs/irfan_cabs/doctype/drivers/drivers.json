@@ -1,6 +1,7 @@
 {
  "actions": [],
  "allow_rename": 1,
+ "autoname": "format:{DR}-{###}",
  "creation": "2024-04-28 11:14:30.089467",
  "default_view": "List",
  "doctype": "DocType",
@@ -53,10 +54,11 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2024-04-28 11:17:22.427694",
+ "modified": "2024-04-28 11:18:35.319801",
  "modified_by": "Administrator",
  "module": "Irfan Cabs",
  "name": "Drivers",
+ "naming_rule": "Expression",
  "owner": "Administrator",
  "permissions": [
   {
